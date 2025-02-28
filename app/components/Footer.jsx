@@ -17,13 +17,13 @@ const Footer = () => {
         <p>Copyright 2025 Tirth Mewada.All Rights Reserved</p>
         <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0 '>
             <li>
-                <a target='_blank' href="/github.com">Github</a>
+                <a target='_blank' href="https://github.com/tirthmewada">Github</a>
             </li>
             <li>
-                <a target='_blank' href="/github.com">LinkedIn</a>
+                <a target='_blank' href="https://www.linkedin.com/in/tirth-mewada-2a1790236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
             </li>
             <li>
-                <a target='_blank' href="/github.com">Twitter</a>
+                <a target='_blank' href="https://x.com/tirth_mewada?s=21">Twitter</a>
             </li>
         </ul>
       </div>
